@@ -1,5 +1,5 @@
 body{
-    background-color: lightskyblue;
+    background-color: white;
 }
 .col{
     background-color: white;
@@ -7,4 +7,18 @@ body{
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+h1 {
+    color: black;
+    margin-left: 20px;
+  }
+  a
+{
+color: black;
+}
+a:hover {
+  color: lightblue;
+}
+nav{
+  text-align: center
 }
